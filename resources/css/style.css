@@ -36,8 +36,15 @@ body {
     * {
         font-size:16px;    
 }
+.text-container {
+    max-width: 17rem;
+}
+ul.nav {
+        padding-right: 0;
+    }
 }
 @media only screen and (max-width:600px){
+    
     h2 {
         font-size:1.2rem;
     }
