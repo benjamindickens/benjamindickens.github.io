@@ -203,6 +203,8 @@ ul.nav {
     width:100%;
 }
 .adress-box {
+    box-shadow: 0 0 2px white;
+    margin:0.2rem 0;
     min-width: 8rem ;
     line-height: 3;
     width: 13.63rem;
